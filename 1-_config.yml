@@ -1,0 +1,8 @@
+title: Six Stars Guides
+description: Sourced GTA 6 guides from the makers of Six Stars, an unofficial GTA 6 companion app for iPhone.
+url: https://ojrajeh.github.io
+baseurl: /six-stars-guides
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
